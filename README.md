@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Urex](https://github.com/ntokozokubheka/Group-Project)
 
-- 🌱 I’m currently learning **Java ,Python .ReactJs ,NodeJs ,ExpressJs,Ajax ,Jasmine and C#**
+- 🌱 I’m currently learning **Java ,Python ,ReactJs ,NodeJs ,ExpressJs,Ajax ,Jasmine and C#**
 
 - 👯 I’m looking to collaborate on [Ubuntu book store](https://github.com/ntokozokubheka/ASPNET-GROUP-PROJECT)
 
