@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ntokozo H. Kubheka</h1>
 <h3 align="center">A passionate full stack engineer from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoder-gifs&psig=AOvVaw1LRj54HX5JzlnpXabWcL4d&ust=1712513714462000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi64_GYroUDFQAAAAAdAAAAABAE)">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntokozokubheka&label=Profile%20views&color=0e75b6&style=flat" alt="ntokozokubheka" /> </p>
